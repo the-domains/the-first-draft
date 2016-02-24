@@ -1,0 +1,28 @@
+name: The First Draft
+favicon: null
+layout_spectrum: 0.10536134033463895
+typography_spectrum: 0.09277736721560359
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.2784036020748317
+  lightness: 0.16705565131269395
+  saturation: 0.6411652890965343
+  rhythmicContrast: 0.9460406545549631
+purpose: []
