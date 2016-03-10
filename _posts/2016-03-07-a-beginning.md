@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "So, you're probably wondering why I chose the name 'The First Draft.' Well, the way I see it we interact, create, react and constantly move forward in the present and only when the moment is done we get to go back and review it.\_"
-datePublished: '2016-03-10T05:11:54.344Z'
-dateModified: '2016-03-10T05:11:51.761Z'
+datePublished: '2016-03-10T05:18:08.793Z'
+dateModified: '2016-03-10T05:13:12.976Z'
 title: A beginning
 author: []
 sourcePath: _posts/2016-03-07-a-beginning.md
@@ -22,7 +22,7 @@ url: a-beginning/index.html
 _type: Article
 
 ---
-![NaNoWriMo 2015](https://the-grid-user-content.s3-us-west-2.amazonaws.com/939f4829-9968-4719-98dc-2d4a53cc916d.jpg)
+![NaNoWriMo 2015](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6338dbce63d8d3bc397ee20443e6b14b296a3bef.jpg)
 
 So, you're probably wondering why I chose the name 'The First Draft.' Well, the way I see it we interact, create, react and constantly move forward in the present and only when the moment is done we get to go back and review it. 
 
