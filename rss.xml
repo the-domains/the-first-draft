@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[The First Draft]]></title>
         <description><![CDATA[The First Draft]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-first-draft/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 04:27:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 10 Mar 2016 05:11:22 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-first-draft/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Fluffy Gluten Free Muffins]]></title>
+            <description><![CDATA[<article><h1>Fluffy Gluten Free Muffins</h1><p>I won't go into the nitty gritty of how the fluffy gluten free muffin quest came to be, not just yet anyways. I'm sure you're here for the recipe right now, because if you're like me, you might need a sweet baked good to make the day that little bit brighter. So here it is, after much toil and failed attempts, I present to you:</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/395484a545ab3439283d4f74ce4075a144d48f28.jpg"></article>]]></description>
+            <link>https://thegrid.ai/the-first-draft/fluffy-gluten-free-muffins/index.html</link>
+            <guid isPermaLink="false">c809e187-6c82-457f-a4a7-bf29ff89bdc0</guid>
+            <pubDate>Thu, 10 Mar 2016 05:10:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A beginning]]></title>
             <description><![CDATA[<article><h1>A beginning</h1><p>So, you're probably wondering why I chose the name 'The First Draft.' Well, the way I see it we interact, create, react and constantly move forward in the present and only when the moment is done we get to go back and review it. </p></article>]]></description>
-            <link>undefineda-beginning/index.html</link>
+            <link>https://thegrid.ai/the-first-draft/a-beginning/index.html</link>
             <guid isPermaLink="false">c738ab36-aced-49cc-9e8e-ee8f8e9f4af1</guid>
             <pubDate>Mon, 07 Mar 2016 04:27:46 GMT</pubDate>
         </item>
