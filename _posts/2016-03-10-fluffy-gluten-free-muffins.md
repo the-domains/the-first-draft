@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "I won't go into the nitty gritty of how the fluffy gluten free muffin quest came to be, not just yet anyways. I'm sure you're here for the recipe right now, because if you're like me, you might need a sweet baked good to make the day that little bit brighter. So here it is, after much toil and failed attempts, I present to you:"
-datePublished: '2016-03-10T05:10:50.244Z'
-dateModified: '2016-03-10T05:10:41.496Z'
+datePublished: '2016-03-10T05:14:46.094Z'
+dateModified: '2016-03-10T05:14:00.442Z'
 title: Fluffy Gluten Free Muffins
 author: []
+sourcePath: _posts/2016-03-10-fluffy-gluten-free-muffins.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-10-fluffy-gluten-free-muffins.md
-published: true
 url: fluffy-gluten-free-muffins/index.html
 _context: 'http://schema.org'
 _type: Article
