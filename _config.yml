@@ -1,7 +1,7 @@
 name: The First Draft
 favicon: null
-layout_spectrum: 0.9994
-typography_spectrum: 0.48436
+layout_spectrum: 0.50481
+typography_spectrum: 0.33755
 title: null
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#777487'
     - '#564a54'
     - '#bcbcbc'
-  brandStrength: 0.3125
-  lightness: 0.8125
-  saturation: 0.6875
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.125
   rhythmicContrast: 0.5
 purpose: []
