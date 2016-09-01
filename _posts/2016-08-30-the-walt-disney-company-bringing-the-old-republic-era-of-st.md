@@ -1,5 +1,23 @@
 ---
-author: []
+datePublished: '2016-08-30T04:09:10.758Z'
+sourcePath: >-
+  _posts/2016-08-30-the-walt-disney-company-bringing-the-old-republic-era-of-st.md
+inFeed: true
+isBasedOnUrl: >-
+  https://www.change.org/p/the-walt-disney-company-bringing-the-old-republic-era-of-star-wars-to-netflix
+authors: []
+hasPage: false
+keywords:
+  - darth
+  - wars
+  - netflix
+  - star
+  - revan
+  - jedi
+  - stories
+  - fanbase
+  - shan
+  - republic
 related:
   - score: 0.7149549127
     description: >-
@@ -20,44 +38,21 @@ related:
     thumbnail_url: >-
       https://i.kinja-img.com/gawker-media/image/upload/s---erriNCS--/c_fill,fl_progressive,g_center,h_200,q_80,w_200/fdj3buryz5nuzyf2k620.png
     thumbnail_width: 200
-publisher:
-  url: 'https://www.change.org'
-  name: Change.org
-  favicon: >-
-    https://assets.change.org/public/img/favicons/favicon-32x32-production-W4kxd6uhOGf7oF31OgdeSFpUQbkFDgbjKgp453XsvwA.png
-  domain: www.change.org
-keywords:
-  - darth
-  - wars
-  - netflix
-  - star
-  - revan
-  - jedi
-  - stories
-  - fanbase
-  - shan
-  - republic
-description: >-
-  It's no surprise to anyone that the Star Wars franchise has experienced a
-  massive resurgence lately, with The Force Awakens released last year and this
-  year with the upcoming Rogue One: A Star Wars Story. However, it's about time
-  that the stories from over 3,000 years before the Battle of Yavin...
-inLanguage: en
-app_links: []
-isBasedOnUrl: >-
-  https://www.change.org/p/the-walt-disney-company-bringing-the-old-republic-era-of-star-wars-to-netflix
-title: 'The Walt Disney Company: Bringing the Old Republic era of Star Wars to Netflix'
-datePublished: '2016-08-30T04:03:15.735Z'
-dateModified: '2016-08-30T04:02:47.774Z'
+author: []
 via: {}
-starred: false
-sourcePath: >-
-  _posts/2016-08-30-the-walt-disney-company-bringing-the-old-republic-era-of-st.md
-inFeed: true
-hasPage: false
+dateModified: '2016-08-30T04:09:10.401Z'
+title: ''
+app_links: []
+publisher: {}
+description: >-
+  For any fans of Star Wars or for those who have played SWTOR, I think that it
+  is safe to say that this would be an amazing show.
+inLanguage: en
 inNav: false
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>The Walt Disney Company: Bringing the Old Republic era of Star Wars to Netflix</h1><p>It's no surprise to anyone that the Star Wars franchise has experienced a massive resurgence lately, with The Force Awakens released last year and this year with the upcoming Rogue One: A Star Wars Story. However, it's about time that the stories from over 3,000 years before the Battle of Yavin...</p><img src="http://assets.change.org/photos/2/kx/ga/dzKXgAXEnpmoKuy-1600x900-noPad.jpg?1471449229" /></article>
+For any fans of Star Wars or for those who have played SWTOR, I think that it is safe to say that this would be an amazing show.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/097ddcec-cfa4-4d28-87e1-38f649c6233c.png)
