@@ -1,4 +1,3 @@
-layout_spectrum: 0.2677281526848674
 typography_spectrum: 0.16765570268034935
 color:
   brandColors:
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.2677281526848674
 analytics:
   google: null
   facebook: null
@@ -26,5 +26,5 @@ cta:
   version: null
 favicon: null
 title: The First Draft
-description: A place for a geekling Mama.
+description: A place for a geekling Mama to write.
 purpose: []
